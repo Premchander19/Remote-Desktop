@@ -1,9 +1,8 @@
 # Remote Desktop
 
-> WRITTEN BY Chau Truong Long
+> WRITTEN BY  Prem Chander
 
-* Email 1: truonglongchau@gmail.com
-* Email 2: 102180171@sv.dut.edu.vn
+* Email 1: pkchander1908@gmail.com
 
 # Tools and language
 
@@ -11,7 +10,7 @@
 * Java: Java RMI, Java swing, TCP, OperatingSystemMXBean
 
 # How to run code
-Run with JDK 15:
+Run with JDK 19:
 ```shell 
 java -jar ./out/artifacts/RemoteDesktop_jar/RemoteDesktop.jar
 ```
